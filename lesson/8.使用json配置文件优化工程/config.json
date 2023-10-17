@@ -1,0 +1,30 @@
+{
+  "train_data_path": "./data/train-0123abcd/",
+  "test_data_path": "./data/test-0123abcd/",
+  "train_num": 30000,
+  "test_num": 1000,
+  "characters": "0123abcd",
+  "digit_num": 2,
+  "img_width": 200,
+  "img_height": 100,
+  
+  "resize_width": 128,
+  "resize_height": 128,
+  "batch_size": 128,
+  "epoch_num": 300,
+  "learning_rate": 0.0001,
+
+  "model_save_path": "./model/",
+  "model_name": "captcha.2chars.3w",
+  "test_model_path": "./model/captcha.2chars.3w"
+}
+
+
+
+
+
+
+
+
+
+
