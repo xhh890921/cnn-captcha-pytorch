@@ -1,5 +1,5 @@
 # cnn-captcha-pytorch
-小黑黑讲AI，AI实战项目《验证码识别》
+AI实战项目《验证码识别》
 
 ![1](https://github.com/xhh890921/cnn-captcha-pytorch/assets/112564707/d2788396-a3a5-44ef-871d-1751a68afe2f)
 
